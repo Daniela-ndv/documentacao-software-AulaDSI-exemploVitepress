@@ -1,0 +1,8 @@
+:root {
+  --vp-c-brand: rgb(245, 1, 143);
+  --vp-c-brand-light: rgb(209, 13, 150);
+  --vp-c-brand-lighter: rgb(255, 64, 207);
+  --vp-c-brand-dark: #ff2dd1;
+  --vp-c-brand-darker: rgba(184, 1, 129, 0.822);
+  --vp-c-sponsor: #fd1dcc;
+}
